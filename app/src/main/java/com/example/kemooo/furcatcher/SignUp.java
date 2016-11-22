@@ -3,7 +3,7 @@ package com.example.kemooo.furcatcher;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class SignUp extends AppCompatActivity {
+public class signup extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
